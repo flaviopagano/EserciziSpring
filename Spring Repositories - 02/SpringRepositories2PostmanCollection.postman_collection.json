@@ -1,0 +1,208 @@
+{
+	"info": {
+		"_postman_id": "7ca05fa0-b71f-4172-bb94-c467fb907a32",
+		"name": "SpringRepositories2PostmanCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "CreateJava",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"firstAppearance\": 1995,\r\n  \"name\": \"Java\",\r\n  \"inventor\": \"James Gosling\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5050/repo-prog-languages",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5050",
+					"path": [
+						"repo-prog-languages"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CreateC++",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"firstAppearance\": 1985,\r\n  \"name\": \"C++\",\r\n  \"inventor\": \"Bjarne Stroustrup\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5050/repo-prog-languages",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5050",
+					"path": [
+						"repo-prog-languages"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CreateJavaScript",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"firstAppearance\": 1985,\r\n  \"name\": \"C++\",\r\n  \"inventor\": \"Bjarne Stroustrup\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5050/repo-prog-languages",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5050",
+					"path": [
+						"repo-prog-languages"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CreateGo",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"firstAppearance\": 2009,\r\n  \"name\": \"Go\",\r\n  \"inventor\": \"The Go Authors\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5050/repo-prog-languages",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5050",
+					"path": [
+						"repo-prog-languages"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetPage1",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5050/repo-prog-languages?page=0&size=2",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5050",
+					"path": [
+						"repo-prog-languages"
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "0"
+						},
+						{
+							"key": "size",
+							"value": "2"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetPage2",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5050/repo-prog-languages?page=1&size=2",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5050",
+					"path": [
+						"repo-prog-languages"
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "1"
+						},
+						{
+							"key": "size",
+							"value": "2"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "EditGoInventor",
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"inventor\": \"Paul Sanders\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5050/repo-prog-languages/4",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5050",
+					"path": [
+						"repo-prog-languages",
+						"4"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
