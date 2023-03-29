@@ -1,0 +1,5 @@
+server:
+  port: 4500
+myCustomProps:
+  authCode: xyz458
+  devName: John
