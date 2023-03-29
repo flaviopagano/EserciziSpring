@@ -1,0 +1,20 @@
+server:
+  port: 9000
+---
+spring:
+  config:
+    activate:
+      on-profile: prod
+server:
+  port: 5000
+myCustomEnvs:
+  welcomeMsg: Hello from Prod
+---
+spring:
+  config:
+    activate:
+      on-profile: test
+server:
+  port: 4000
+myCustomEnvs:
+  welcomeMsg: Hello from Test
