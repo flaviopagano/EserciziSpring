@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: flaviopagano1@gmail.com
+    password: oltxzhqrcmmgrsbe
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
