@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Dependency Injection/Dependency-Injection.iml" filepath="$PROJECT_DIR$/Dependency Injection/Dependency-Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dependency Injection/Dependency Injection - 06.iml" filepath="$PROJECT_DIR$/Dependency Injection/Dependency Injection - 06.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/EserciziSpringGitHub.iml" filepath="$PROJECT_DIR$/.idea/EserciziSpringGitHub.iml" />
       <module fileurl="file://$PROJECT_DIR$/First API - 05/First-API-05.iml" filepath="$PROJECT_DIR$/First API - 05/First-API-05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Database - No SQL ORM/MongoDBTest.iml" filepath="$PROJECT_DIR$/Database - No SQL ORM/MongoDBTest.iml" />

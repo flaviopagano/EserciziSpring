@@ -20,7 +20,6 @@
         <module name="demo (2)" />
         <module name="websocket-2" />
         <module name="TestUnit" />
-        <module name="Dependency-Injection" />
         <module name="custom-queries-1" />
         <module name="email-2" />
         <module name="email-1" />
@@ -36,6 +35,7 @@
         <module name="demo (1)" />
         <module name="spring-repositories-2" />
         <module name="logging" />
+        <module name="Dependency Injection - 06" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -46,7 +46,7 @@
       <module name="demo" target="17" />
       <module name="demo (1)" target="17" />
       <module name="demo (2)" target="17" />
-      <module name="Dependency-Injection" target="17" />
+      <module name="Dependency Injection - 06" target="17" />
       <module name="deploy-1" target="11" />
       <module name="deploy-2" target="11" />
       <module name="email-1" target="11" />
