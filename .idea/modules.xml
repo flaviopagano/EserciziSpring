@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dependency Injection/Dependency-Injection.iml" filepath="$PROJECT_DIR$/Dependency Injection/Dependency-Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EserciziSpringGitHub.iml" filepath="$PROJECT_DIR$/.idea/EserciziSpringGitHub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First API - 05/First-API-05.iml" filepath="$PROJECT_DIR$/First API - 05/First-API-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Database - No SQL ORM/MongoDBTest.iml" filepath="$PROJECT_DIR$/Database - No SQL ORM/MongoDBTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring Repositories - 01/Spring-Repositories-01.iml" filepath="$PROJECT_DIR$/Spring Repositories - 01/Spring-Repositories-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swagger - 01/Swagger-01.iml" filepath="$PROJECT_DIR$/Swagger - 01/Swagger-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit - Test/TestUnit.iml" filepath="$PROJECT_DIR$/Unit - Test/TestUnit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CORS/cors.iml" filepath="$PROJECT_DIR$/CORS/cors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CRUD/crud.iml" filepath="$PROJECT_DIR$/CRUD/crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CRUD - Test/crud (1).iml" filepath="$PROJECT_DIR$/CRUD - Test/crud (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Custom Queries - 01/custom-queries-1.iml" filepath="$PROJECT_DIR$/Custom Queries - 01/custom-queries-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First API - 02/demo.iml" filepath="$PROJECT_DIR$/First API - 02/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First API - 03/demo (1).iml" filepath="$PROJECT_DIR$/First API - 03/demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/First API - 04/demo (2).iml" filepath="$PROJECT_DIR$/First API - 04/demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Deploy - 01/deploy-1.iml" filepath="$PROJECT_DIR$/Deploy - 01/deploy-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Deploy - 02/deploy-2.iml" filepath="$PROJECT_DIR$/Deploy - 02/deploy-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servizi - Email 01/email-1.iml" filepath="$PROJECT_DIR$/Servizi - Email 01/email-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servizi - Email 02/email-2.iml" filepath="$PROJECT_DIR$/Servizi - Email 02/email-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Environment - Variables - 01/environment-variables-1.iml" filepath="$PROJECT_DIR$/Environment - Variables - 01/environment-variables-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Environment - Variables - 02/environment-variables-2.iml" filepath="$PROJECT_DIR$/Environment - Variables - 02/environment-variables-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileUploadDownload/fileUploader.iml" filepath="$PROJECT_DIR$/FileUploadDownload/fileUploader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hybernate/hybernate.iml" filepath="$PROJECT_DIR$/Hybernate/hybernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interceptor Middleware - 01/interceptors-middleware-1.iml" filepath="$PROJECT_DIR$/Interceptor Middleware - 01/interceptors-middleware-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logging/logging.iml" filepath="$PROJECT_DIR$/Logging/logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mock Database/mock-db.iml" filepath="$PROJECT_DIR$/Mock Database/mock-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Redis/redisCache.iml" filepath="$PROJECT_DIR$/Redis/redisCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First API - 01/spingBootStrart.iml" filepath="$PROJECT_DIR$/First API - 01/spingBootStrart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring Repositories - 02/spring-repositories-2.iml" filepath="$PROJECT_DIR$/Spring Repositories - 02/spring-repositories-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swagger - 02/swagger-2.iml" filepath="$PROJECT_DIR$/Swagger - 02/swagger-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebSocket - 01/websocket-1.iml" filepath="$PROJECT_DIR$/WebSocket - 01/websocket-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebSocket - 02/websocket-2.iml" filepath="$PROJECT_DIR$/WebSocket - 02/websocket-2.iml" />
+    </modules>
+  </component>
+</project>

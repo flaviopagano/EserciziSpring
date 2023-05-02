@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cors" />
+        <module name="deploy-2" />
+        <module name="deploy-1" />
+        <module name="Spring-Repositories-01" />
+        <module name="crud (1)" />
+        <module name="demo" />
+        <module name="MongoDBTest" />
+        <module name="crud" />
+        <module name="First-API-05" />
+        <module name="websocket-1" />
+        <module name="spingBootStrart" />
+        <module name="demo (2)" />
+        <module name="websocket-2" />
+        <module name="TestUnit" />
+        <module name="Dependency-Injection" />
+        <module name="custom-queries-1" />
+        <module name="email-2" />
+        <module name="email-1" />
+        <module name="Swagger-01" />
+        <module name="environment-variables-1" />
+        <module name="environment-variables-2" />
+        <module name="fileUploader" />
+        <module name="swagger-2" />
+        <module name="interceptors-middleware-1" />
+        <module name="hybernate" />
+        <module name="redisCache" />
+        <module name="mock-db" />
+        <module name="demo (1)" />
+        <module name="spring-repositories-2" />
+        <module name="logging" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cors" target="11" />
+      <module name="crud" target="11" />
+      <module name="crud (1)" target="11" />
+      <module name="custom-queries-1" target="11" />
+      <module name="demo" target="17" />
+      <module name="demo (1)" target="17" />
+      <module name="demo (2)" target="17" />
+      <module name="Dependency-Injection" target="17" />
+      <module name="deploy-1" target="11" />
+      <module name="deploy-2" target="11" />
+      <module name="email-1" target="11" />
+      <module name="email-2" target="11" />
+      <module name="environment-variables-1" target="11" />
+      <module name="environment-variables-2" target="11" />
+      <module name="fileUploader" target="11" />
+      <module name="First-API-05" target="17" />
+      <module name="hybernate" target="11" />
+      <module name="interceptors-middleware-1" target="11" />
+      <module name="logging" target="11" />
+      <module name="mock-db" target="11" />
+      <module name="MongoDBTest" target="17" />
+      <module name="redisCache" target="11" />
+      <module name="spingBootStrart" target="11" />
+      <module name="Spring-Repositories-01" target="17" />
+      <module name="spring-repositories-2" target="11" />
+      <module name="Swagger-01" target="17" />
+      <module name="swagger-2" target="11" />
+      <module name="TestUnit" target="17" />
+      <module name="websocket-1" target="11" />
+      <module name="websocket-2" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

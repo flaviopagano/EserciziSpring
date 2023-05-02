@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/CORS/pom.xml" />
+        <option value="$PROJECT_DIR$/CRUD/pom.xml" />
+        <option value="$PROJECT_DIR$/Redis/pom.xml" />
+        <option value="$PROJECT_DIR$/Logging/pom.xml" />
+        <option value="$PROJECT_DIR$/Hybernate/pom.xml" />
+        <option value="$PROJECT_DIR$/CRUD - Test/pom.xml" />
+        <option value="$PROJECT_DIR$/Deploy - 01/pom.xml" />
+        <option value="$PROJECT_DIR$/Deploy - 02/pom.xml" />
+        <option value="$PROJECT_DIR$/Unit - Test/pom.xml" />
+        <option value="$PROJECT_DIR$/Swagger - 01/pom.xml" />
+        <option value="$PROJECT_DIR$/Swagger - 02/pom.xml" />
+        <option value="$PROJECT_DIR$/Mock Database/pom.xml" />
+        <option value="$PROJECT_DIR$/First API - 01/pom.xml" />
+        <option value="$PROJECT_DIR$/First API - 02/pom.xml" />
+        <option value="$PROJECT_DIR$/First API - 03/pom.xml" />
+        <option value="$PROJECT_DIR$/First API - 04/pom.xml" />
+        <option value="$PROJECT_DIR$/First API - 05/pom.xml" />
+        <option value="$PROJECT_DIR$/WebSocket - 01/pom.xml" />
+        <option value="$PROJECT_DIR$/WebSocket - 02/pom.xml" />
+        <option value="$PROJECT_DIR$/FileUploadDownload/pom.xml" />
+        <option value="$PROJECT_DIR$/Servizi - Email 01/pom.xml" />
+        <option value="$PROJECT_DIR$/Servizi - Email 02/pom.xml" />
+        <option value="$PROJECT_DIR$/Custom Queries - 01/pom.xml" />
+        <option value="$PROJECT_DIR$/Dependency Injection/pom.xml" />
+        <option value="$PROJECT_DIR$/Database - No SQL ORM/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Repositories - 01/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring Repositories - 02/pom.xml" />
+        <option value="$PROJECT_DIR$/Interceptor Middleware - 01/pom.xml" />
+        <option value="$PROJECT_DIR$/Environment - Variables - 01/pom.xml" />
+        <option value="$PROJECT_DIR$/Environment - Variables - 02/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
