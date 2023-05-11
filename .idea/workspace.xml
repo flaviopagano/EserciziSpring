@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f2655d0-a56b-4b53-b6c5-901acfb09be3" name="Changes" comment="login system" />
+    <list default="true" id="7f2655d0-a56b-4b53-b6c5-901acfb09be3" name="Changes" comment="State Machine" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683046334989</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="State Machine">
+      <created>1683818794547</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683818794547</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +133,7 @@
     <MESSAGE value="all" />
     <MESSAGE value="aggiunti tutti gli esercizi" />
     <MESSAGE value="login system" />
-    <option name="LAST_COMMIT_MESSAGE" value="login system" />
+    <MESSAGE value="State Machine" />
+    <option name="LAST_COMMIT_MESSAGE" value="State Machine" />
   </component>
 </project>
